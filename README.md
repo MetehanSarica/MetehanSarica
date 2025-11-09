@@ -5,7 +5,7 @@ I'm a developer and student passionate about building clean and functional appli
 - 🔭 I’m currently working on my **[Basic C# Calculator](https://github.com/MetehanSarica/Basic-Calculator-With-Windows-Forms)**.
 - 🌱 I’m currently learning and exploring **Java**, **Rust**, **Arduino**, and advancing my **C#** skills.
 - 💬 Ask me about: Web development with **HTML/CSS/JavaScript**, scripting with **Python**, or my C# projects.
-- 📫 How to reach me: *(Add your email or LinkedIn profile here!)*
+- 📫 How to reach me: *metehansrc23@gmail.com*
 
 <br>
 
