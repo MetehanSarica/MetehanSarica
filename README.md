@@ -4,7 +4,7 @@
 - I'm currently focusing on **C#/.NET** for desktop applications and exploring **AI API integration**.
 - 🌱 I'm also learning and exploring **Rust** (systems), **Java**, and **Arduino** (IoT).
 - 💬 Ask me about: Web development (HTML/CSS/JS), Python scripting, or my C# projects.
-- 📫 How to reach me: **metehanarcr23@gmail.com**
+- 📫 How to reach me: **metehansrc23@gmail.com**
 
 ---
 
