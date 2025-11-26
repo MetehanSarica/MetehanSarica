@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MetehanSarica/Notoid/raw/main/Notoid/Resources/NotoidLogo.png" alt="Notoid Logo" width="140" />
-</p>
-
 <h1 align="center">Hi, I'm Metehan Sarıca 👋</h1>
 
 <p align="center">
