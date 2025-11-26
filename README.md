@@ -87,8 +87,7 @@ Tech: **Next.js, React, TailwindCSS, TypeScript**
 - **Portfolio:** https://metehansarica.dev  
 - **LinkedIn:** https://www.linkedin.com/in/metehan-sarica  
 - **GitHub:** https://github.com/MetehanSarica  
-- **Email:** metehansarica@outlook.com  
-- **Spotify (TheyCallMeSaku):** *(coming soon)*
+- **Email:** metehansrc23@gmail.com
 
 ---
 
