@@ -65,7 +65,7 @@ Tech: **C#, .NET, DevExpress, SQL**
 Developer portfolio built with Next.js + TailwindCSS and deployed on Vercel.  
 Tech: **Next.js, React, TailwindCSS, TypeScript**  
 🔗 Live → https://metehansarica.dev  
-🔗 Repo → Coming Soon
+🔗 Repo → https://github.com/MetehanSarica/metehansarica-portfolio
 
 ---
 
