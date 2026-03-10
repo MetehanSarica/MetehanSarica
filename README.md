@@ -47,18 +47,6 @@ I’m currently working on:
 
 ## 📦 Featured Projects
 
-### 🔹 **Notoid — AI-Powered Study Assistant**
-A Windows desktop application that parses PDF, DOCX, and PPTX files and generates structured study notes using Gemini AI.  
-Tech: **C#, .NET, DevExpress, QuestPDF, PdfPig, OpenXML, Gemini API**  
-🔗 Repo → https://github.com/MetehanSarica/Notoid
-
----
-
-### 🔹 **Storiva — Product & Category Management** *(In Development)*
-Inventory & product management desktop app with modern UI and SQL-driven logic.  
-Tech: **C#, .NET, DevExpress, SQL**  
-🔗 Repo → *Coming Soon*
-
 ---
 
 ### 🔹 **metehansarica.dev — Personal Portfolio**
